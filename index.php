@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
@@ -272,7 +271,7 @@
                                         <div class="content">
                                             <div class="content-left">
                                                 <h6 class="title"><a href="product-details-default.php">Kebaya Kutu Baru Brokat Nude Color</a></h6>
-                                                <span class="price">$75.00 - $85.00</span>
+                                                <span class="price">Rp 750.000</span>
                                             </div>
 
                                         </div>
@@ -296,7 +295,7 @@
                                         <div class="content">
                                             <div class="content-left">
                                                 <h6 class="title"><a href="product-details-default.php">Long Kebaya Detail Handmade Embroidery</a></h6>
-                                                <span class="price">$75.00 - $85.00</span>
+                                                <span class="price">Rp 1.000.000</span>
                                             </div>
 
                                         </div>
@@ -320,7 +319,7 @@
                                         <div class="content">
                                             <div class="content-left">
                                                 <h6 class="title"><a href="product-details-default.php">Kebaya Encim Hand Made Embroidery</a></h6>
-                                                <span class="price">$75.00 - $85.00</span>
+                                                <span class="price">Rp 1.200.000</span>
                                             </div>
                                         </div>
                                     </div>
@@ -343,7 +342,7 @@
                                         <div class="content">
                                             <div class="content-left">
                                                 <h6 class="title"><a href="product-details-default.php">Kebaya Panjang Cutting A Line Rona Series</a></h6>
-                                                <span class="price">$75.00 - $85.00</span>
+                                                <span class="price">Rp 900.000</span>
                                             </div>
 
                                         </div>
